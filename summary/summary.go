@@ -20,4 +20,5 @@ type Metadata struct {
 // Diary contains the information of the dispositions that conform
 // each of the bulletins on a certain date
 type Diary struct {
+	BulletinNumber string `xml:"nbo,attr"`
 }
