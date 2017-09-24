@@ -8,8 +8,13 @@ type BoeSummary struct {
 }
 
 // Metadata is used to provide metainformation that has been published
-// in a certain date
+// in a certain date. Note that all dates from this struct has the
+// format dd/mm/yyyy
 type Metadata struct {
+	BulletinType        string `xml:"pub"`
+	PublicationDate     string `xml:"fecha"`
+	LastPublicationDate string `xml:"fechaAnt"`
+	NextPublicationDate string `xml:"fechaSig"`
 }
 
 // Diary contains the information of the dispositions that conform
