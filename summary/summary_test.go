@@ -9,6 +9,15 @@ import (
 	"golang.org/x/net/html/charset"
 )
 
+func TestSectionsSize(t *testing.T) {
+	boe := readXML()
+	expected := 7
+	actual := boe.SectionsSize()
+	if actual != expected {
+		t.Error("Expected", expected, "but found", actual)
+	}
+}
+
 func TestMetadata(t *testing.T) {
 	summary := readXML()
 	bulletinType := summary.Meta.BulletinType
