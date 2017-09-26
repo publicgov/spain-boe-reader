@@ -22,7 +22,7 @@ type Metadata struct {
 type Diary struct {
 	BulletinNumber string     `xml:"nbo,attr"`
 	Summary        PdfSummary `xml:"sumario_nbo"`
-	Section        []Section  `xml:"seccion"`
+	Sections       []Section  `xml:"seccion"`
 }
 
 // PdfSummary contains information of the pdf summary associated to the bulletin
