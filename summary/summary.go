@@ -10,6 +10,15 @@ type BoeSummary struct {
 	Diaries []Diary  `xml:"diario"`
 }
 
+// SectionsSize return the total number of sections for all diaries found
+func (b *BoeSummary) SectionsSize() int {
+	var total int
+	for _, diary := range b.Diaries {
+		total += len(diary.Sections)
+	}
+	return total
+}
+
 // Metadata is used to provide metainformation that has been published
 // in a certain date. Note that all dates from this struct has the
 // format dd/mm/yyyy

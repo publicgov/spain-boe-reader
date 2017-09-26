@@ -10,12 +10,12 @@ const baseURL string = "http://boe.es/diario_boe/xml.php?id=%s-%s-%s"
 
 // Params is the variable format of the URL
 type Params struct {
-	summaryType string
-	itemType    string
-	date        string
+	SummaryType string
+	ItemType    string
+	Date        string
 }
 
 // ToString convert the Param struct to a string
 func (p *Params) ToString() string {
-	return fmt.Sprintf(baseURL, p.summaryType, p.itemType, p.date)
+	return fmt.Sprintf(baseURL, p.SummaryType, p.ItemType, p.Date)
 }
