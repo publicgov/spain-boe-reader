@@ -1,0 +1,171 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sumario xmlns="http://www.boe.es/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.boe.es/xsd SumarioBOE.xsd ">
+  <meta>
+    <pub>BOE</pub>
+    <fecha>18/10/2014</fecha>
+    <fechaAnt>17/10/2014</fechaAnt>
+    <fechaSig>20/10/2014</fechaSig>
+  </meta>
+  
+  <diario nbo="253">
+    <sumario_nbo id="BOE-S-2014-253">
+      <urlPdf szBytes="312083" szKBytes="305">/boe/dias/2014/10/18/pdfs/BOE-S-2014-253.pdf</urlPdf>
+    </sumario_nbo>
+  
+    <seccion num="1" nombre="I. Disposiciones generales">
+       <departamento nombre="MINISTERIO DE HACIENDA Y ADMINISTRACIONES PÚBLICAS">
+        <epigrafe nombre="Tabaco. Precios">
+          <item id="BOE-A-2014-10571">
+            <titulo>Resolución de 17 de octubre de 2014, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del Área del Monopolio.</titulo>
+            <urlPdf szBytes="162969" szKBytes="159" numPag="2">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10571.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10571</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10571</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE EDUCACIÓN, CULTURA Y DEPORTE">
+        <epigrafe nombre="Títulos académicos">
+          <item id="BOE-A-2014-10573">
+            <titulo>Resolución de 2 de octubre de 2014, de la Secretaría General de Universidades, por la que se publica el Acuerdo del Consejo de Ministros de 26 de septiembre de 2014, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos.</titulo>
+            <urlPdf szBytes="174162" szKBytes="170" numPag="5">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10573.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10573</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10573</urlXml>
+          </item>
+          <item id="BOE-A-2014-10574">
+            <titulo>Resolución de 2 de octubre de 2014, de la Secretaría General de Universidades, por la que se publica el Acuerdo del Consejo de Ministros de 26 de septiembre de 2014, por el que se establece el carácter oficial de determinados títulos de Máster y su inscripción en el Registro de Universidades, Centros y Títulos.</titulo>
+            <urlPdf szBytes="236651" szKBytes="231" numPag="12">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10574.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10574</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10574</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+	
+    <seccion num="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+      <departamento nombre="MINISTERIO DE ASUNTOS EXTERIORES Y DE COOPERACIÓN">
+        <epigrafe nombre="Nombramientos">
+          <item id="BOE-A-2014-10581">
+            <titulo>Real Decreto 896/2014, de 17 de octubre, por el que se nombra Presidente de la Delegación que asistirá el próximo día 19 de octubre de 2014, en el Vaticano, a la ceremonia de beatificación de Pablo VI, a don José Manuel García-Margallo Marfil, Ministro de Asuntos Exteriores y de Cooperación.</titulo>
+            <urlPdf szBytes="137056" szKBytes="134" numPag="1">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10581.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10581</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10581</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+      <departamento nombre="MINISTERIO DE INDUSTRIA, ENERGÍA Y TURISMO">
+        <epigrafe nombre="Ceses">
+          <item id="BOE-A-2014-10582">
+            <titulo>Real Decreto 898/2014, de 17 de octubre, por el que se dispone el cese de don Jaime Suárez Pérez-Lucas, como Director General de Política Energética y Minas.</titulo>
+            <urlPdf szBytes="135310" szKBytes="132" numPag="1">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10582.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10582</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10582</urlXml>
+          </item>
+        </epigrafe>
+        <epigrafe nombre="Nombramientos">
+          <item id="BOE-A-2014-10583">
+            <titulo>Real Decreto 899/2014, de 17 de octubre, por el que se nombra Directora General de Política Energética y Minas a doña María Teresa Baquedano Martín.</titulo>
+            <urlPdf szBytes="135693" szKBytes="133" numPag="1">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10583.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10583</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10583</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+	
+    <seccion num="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+      <departamento nombre="MINISTERIO DE EDUCACIÓN, CULTURA Y DEPORTE">
+        <epigrafe nombre="Cuerpos de funcionarios docentes">
+          <item id="BOE-A-2014-10586">
+            <titulo>Orden ECD/1905/2014, de 10 de octubre, por la que se convoca concurso de traslados de funcionarios docentes de los Cuerpos de Catedráticos y Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, Catedráticos y Profesores de Escuelas Oficiales de Idiomas, Profesores de Música y Artes Escénicas, Catedráticos, Profesores y Maestros de Taller de Artes Plásticas y Diseño y de Maestros, para la provisión de plazas en el ámbito de gestión territorial del Ministerio de Educación, Cultura y Deporte.</titulo>
+            <urlPdf szBytes="650071" szKBytes="635" numPag="36">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10586.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10586</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10586</urlXml>
+          </item>
+        </epigrafe>
+        <epigrafe nombre="Cuerpos de Inspectores al Servicio de la Administración Educativa e Inspectores de Educación">
+          <item id="BOE-A-2014-10587">
+            <titulo>Orden ECD/1906/2014, de 10 de octubre, por la que se convoca concurso de traslados entre funcionarios de los Cuerpos de Inspectores al Servicio de la Administración Educativa e Inspectores de Educación, para la provisión de plazas en el ámbito de gestión territorial del Ministerio de Educación, Cultura y Deporte.</titulo>
+            <urlPdf szBytes="202797" szKBytes="198" numPag="9">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10587.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10587</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10587</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+	
+    <seccion num="3" nombre="III. Otras disposiciones">
+      <departamento nombre="MINISTERIO DE DEFENSA">
+        <epigrafe nombre="Datos de carácter personal">
+          <item id="BOE-A-2014-10588">
+            <titulo>Orden DEF/1907/2014, de 9 de octubre, por la que se crean ficheros de datos de carácter personal en el ámbito de la Dirección General de Asuntos Económicos, del Ministerio de Defensa.</titulo>
+            <urlPdf szBytes="168852" szKBytes="165" numPag="5">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10588.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10588</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10588</urlXml>
+          </item>
+          <item id="BOE-A-2014-10589">
+            <titulo>Orden DEF/1908/2014, de 9 de octubre, por la que se crean ficheros de datos de carácter personal en el ámbito del Centro Universitario de la Defensa ubicado en la Academia Central de la Defensa en Madrid.</titulo>
+            <urlPdf szBytes="165636" szKBytes="162" numPag="4">/boe/dias/2014/10/18/pdfs/BOE-A-2014-10589.pdf</urlPdf>
+            <urlHtm>/diario_boe/txt.php?id=BOE-A-2014-10589</urlHtm>
+            <urlXml>/diario_boe/xml.php?id=BOE-A-2014-10589</urlXml>
+          </item>
+        </epigrafe>
+      </departamento>
+    </seccion>
+	
+    <seccion num="4" nombre="IV. Administración de Justicia">
+      <departamento nombre="TRIBUNAL SUPREMO">
+        <item id="BOE-B-2014-36407">
+          <titulo>SALA DE LO CONTENCIOSO-ADMINISTRATIVO</titulo>
+          <urlPdf szBytes="156012" szKBytes="152" numPag="1">/boe/dias/2014/10/18/pdfs/BOE-B-2014-36407.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2014-36407</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2014-36407</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="JUZGADOS CENTRALES DE LO CONTENCIOSO-ADMINISTRATIVO">
+        <item id="BOE-B-2014-36409">
+          <titulo>MADRID</titulo>
+          <urlPdf szBytes="177220" szKBytes="173" numPag="4">/boe/dias/2014/10/18/pdfs/BOE-B-2014-36409.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2014-36409</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2014-36409</urlXml>
+        </item>
+      </departamento>
+    </seccion>
+	
+    <seccion num="5A" nombre="V. Anuncios. - A. Anuncios de licitaciones públicas y adjudicaciones">
+      <departamento nombre="MINISTERIO DE DEFENSA">
+        <item id="BOE-B-2014-36487">
+          <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Apoyo al mantenimiento de los vehículos Bmr/Vec. Expediente: 2091114003100.</titulo>
+          <urlPdf szBytes="166797" szKBytes="163" numPag="1">/boe/dias/2014/10/18/pdfs/BOE-B-2014-36487.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2014-36487</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2014-36487</urlXml>
+        </item>
+        <item id="BOE-B-2014-36488">
+          <titulo>Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Implantación de un módulo de PS en Atlantis. Expediente: 500084030400.</titulo>
+          <urlPdf szBytes="165361" szKBytes="161" numPag="1">/boe/dias/2014/10/18/pdfs/BOE-B-2014-36488.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2014-36488</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2014-36488</urlXml>
+        </item>
+      </departamento>
+    </seccion>
+	
+    <seccion num="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
+      <departamento nombre="MINISTERIO DE ASUNTOS EXTERIORES Y DE COOPERACIÓN">
+        <item id="BOE-B-2014-36581">
+          <titulo>Anuncio del Departamento de Organizaciones No Gubernamentales de Desarrollo adscrito a la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) por el que se notifica Resolución por la que se tiene por desistida la solicitud de inscripción de la entidad ASOCIACIÓN INTERNACIONAL DE SANITARIOS EN ESPAÑA - AISE.</titulo>
+          <urlPdf szBytes="163353" szKBytes="160" numPag="1">/boe/dias/2014/10/18/pdfs/BOE-B-2014-36581.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2014-36581</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2014-36581</urlXml>
+        </item>
+      </departamento>
+      <departamento nombre="MINISTERIO DE JUSTICIA">
+        <item id="BOE-B-2014-36582">
+          <titulo>Anuncio de la Subsecretaría (División de Derechos de Gracia y otros Derechos), sobre solicitud de sucesión en el título de Marqués de Vivanco.</titulo>
+          <urlPdf szBytes="158995" szKBytes="155" numPag="1">/boe/dias/2014/10/18/pdfs/BOE-B-2014-36582.pdf</urlPdf>
+          <urlHtm>/diario_boe/txt.php?id=BOE-B-2014-36582</urlHtm>
+          <urlXml>/diario_boe/xml.php?id=BOE-B-2014-36582</urlXml>
+        </item>
+      </departamento>
+    </seccion>
+  </diario>
+</sumario>

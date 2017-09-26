@@ -48,4 +48,33 @@ type Section struct {
 // Department contains the relative data to the various departments  which have
 // been published dispositions belonging the current section
 type Department struct {
+	Name      string     `xml:"nombre,attr"`
+	Epigraphs []Epigraph `xml:"epigrafe,omitempty"`
+	Items     []Item     `xml:"item,omitempty"`
+}
+
+// Epigraph is the list in which the dispositions are grouped corresponding
+// to the department. Only available for sections 1, 2 and 3
+type Epigraph struct {
+	Name  string `xml:"nombre,attr"`
+	Items []Item `xml:"item,omitempty"`
+}
+
+// Item is the list of dispositions corresponding to the section. This element
+// can be inside the epigraph or without it. If this element exists without
+// the epigrap element, only apply for section 4 and 5
+type Item struct {
+	ID         string     `xml:"id,attr"`
+	Title      string     `xml:"titulo"`
+	PdfInfo    PdfInfo    `xml:"urlPdf,omitempty"`
+	HTMLURL    string     `xml:"urlHtm,omitempty"`
+	XMLURL     string     `xml:"urlXml,omitempty"`
+	Supplement Supplement `xml:"suplemento,omitempty"`
+}
+
+// Supplement contain information necessary to obtain those documents which, in some times,
+// are provided along with the bulletin of the day
+type Supplement struct {
+	Description string  `xml:"descripcion"`
+	PdfInfo     PdfInfo `xml:"urlPdf"`
 }
