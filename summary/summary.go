@@ -1,8 +1,11 @@
 package summary
 
+import "encoding/xml"
+
 // BoeSummary is a struct to document the different dispositions
 // and announcements that have been published on a certain date
 type BoeSummary struct {
+	XMLName xml.Name `xml:"sumario"`
 	Meta    Metadata `xml:"meta"`
 	Diaries []Diary  `xml:"diario"`
 }

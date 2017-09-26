@@ -1,18 +1,16 @@
 
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<sumario xmlns="http://www.boe.es/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.boe.es/xsd SumarioBOE.xsd ">
+<sumario>
   <meta>
     <pub>BOE</pub>
     <fecha>18/10/2014</fecha>
     <fechaAnt>17/10/2014</fechaAnt>
     <fechaSig>20/10/2014</fechaSig>
   </meta>
-  
   <diario nbo="253">
     <sumario_nbo id="BOE-S-2014-253">
       <urlPdf szBytes="312083" szKBytes="305">/boe/dias/2014/10/18/pdfs/BOE-S-2014-253.pdf</urlPdf>
     </sumario_nbo>
-  
     <seccion num="1" nombre="I. Disposiciones generales">
        <departamento nombre="MINISTERIO DE HACIENDA Y ADMINISTRACIONES PÚBLICAS">
         <epigrafe nombre="Tabaco. Precios">
@@ -41,7 +39,6 @@
         </epigrafe>
       </departamento>
     </seccion>
-	
     <seccion num="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
       <departamento nombre="MINISTERIO DE ASUNTOS EXTERIORES Y DE COOPERACIÓN">
         <epigrafe nombre="Nombramientos">
@@ -72,7 +69,6 @@
         </epigrafe>
       </departamento>
     </seccion>
-	
     <seccion num="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
       <departamento nombre="MINISTERIO DE EDUCACIÓN, CULTURA Y DEPORTE">
         <epigrafe nombre="Cuerpos de funcionarios docentes">
@@ -93,7 +89,6 @@
         </epigrafe>
       </departamento>
     </seccion>
-	
     <seccion num="3" nombre="III. Otras disposiciones">
       <departamento nombre="MINISTERIO DE DEFENSA">
         <epigrafe nombre="Datos de carácter personal">
@@ -112,7 +107,6 @@
         </epigrafe>
       </departamento>
     </seccion>
-	
     <seccion num="4" nombre="IV. Administración de Justicia">
       <departamento nombre="TRIBUNAL SUPREMO">
         <item id="BOE-B-2014-36407">
@@ -131,7 +125,6 @@
         </item>
       </departamento>
     </seccion>
-	
     <seccion num="5A" nombre="V. Anuncios. - A. Anuncios de licitaciones públicas y adjudicaciones">
       <departamento nombre="MINISTERIO DE DEFENSA">
         <item id="BOE-B-2014-36487">
@@ -148,7 +141,6 @@
         </item>
       </departamento>
     </seccion>
-	
     <seccion num="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
       <departamento nombre="MINISTERIO DE ASUNTOS EXTERIORES Y DE COOPERACIÓN">
         <item id="BOE-B-2014-36581">
