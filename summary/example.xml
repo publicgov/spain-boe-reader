@@ -1,6 +1,5 @@
-
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<sumario>
+<sumario xmlns="http://www.boe.es/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.boe.es/xsd SumarioBOE.xsd">
   <meta>
     <pub>BOE</pub>
     <fecha>18/10/2014</fecha>
