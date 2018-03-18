@@ -29,6 +29,10 @@ func main() {
 	client := net.New(p)
 	summary := client.MakeRequest()
 
+	if len(summary.Diaries) == 0 {
+		log.Println("No diaries found for date", currentDate)
+		return
+	}
 	// print basic info
 	log.Println(showBasicInfo(summary))
 }
